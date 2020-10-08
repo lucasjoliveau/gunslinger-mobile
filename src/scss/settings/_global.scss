@@ -4,3 +4,16 @@ $global-transition: all 300ms ease-in-out;
   font-size: 0.75rem;
   color: $color-4;
 }
+
+p {
+  color: $color-1;
+}
+
+img {
+  max-width: 100%;
+}
+
+.btn-primary .btn-p1 {
+  background: linear-gradient(96.63deg, #E600D8 0%, #711C91 100%);
+  height: 100px;
+}
