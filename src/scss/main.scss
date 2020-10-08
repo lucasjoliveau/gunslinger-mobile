@@ -7,6 +7,7 @@
 @import "settings/fonts";
 @import "settings/dimensions";
 @import "settings/global";
+@import "settings/buttons";
 
 // Generic
 @import "generic/reset";
@@ -20,8 +21,8 @@
 @import "elements/forms";
 
 // Components
-@import "components/header";
-@import "components/footer";
+@import "components/start-page";
+@import "components/game-page";
 
 // Utilities
 @import "utilities/spacing";
