@@ -1,0 +1,17 @@
+.congrats-page {
+
+  .congrats-img {
+    width: 100px;
+  }
+
+
+  .congrats-btn-group {
+    margin-top: 85px;
+  }
+}
+
+.congrats-page {
+  justify-content: space-around;
+  display: flex;
+  flex-direction: column;
+}
